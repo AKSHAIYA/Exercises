@@ -1,0 +1,9 @@
+Time complexity
+1)Time complexity is the computational complexity that describes the amount of time it takes to run an algorithm. 
+2)Time complexity is commonly estimated by counting the number of elementary operations performed by the algorithm, 
+supposing that each elementary operation takes a fixed amount of time to perform.
+
+Time complexity of replace function is O(n^2)
+
+Space Complexity
+Space complexity is the amount of memory used by the algorithm (including the input values to the algorithm) to execute and produce the result.
